@@ -1,1 +1,1 @@
-# Repositório do exercício de db I
+# Repositório do exercício de DB I
